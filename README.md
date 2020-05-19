@@ -7,7 +7,7 @@ Es una aplicacion web creada a traves del curso de Master en Javascript de Udemy
 
 
 ### Inicio
- ![Index](vistas/1era.jpg)
+ ![Index](UDEMY-MasterJS/Vistas/1era.PNG)
 
 
  ![Busqueda](vistas/2da.jpg)
