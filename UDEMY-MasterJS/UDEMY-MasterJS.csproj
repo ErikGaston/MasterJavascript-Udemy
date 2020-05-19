@@ -85,6 +85,9 @@
     <Content Include="index.html" />
     <Content Include="js\main.js" />
     <Content Include="reloj.html" />
+    <Content Include="Vistas\1era.PNG" />
+    <Content Include="Vistas\2da.PNG" />
+    <Content Include="Vistas\3era.PNG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
